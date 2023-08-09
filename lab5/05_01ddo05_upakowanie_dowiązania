@@ -1,0 +1,17 @@
+
+
+Odpowiedź na kwestię różnicy w zajętości kompresowanych danych:
+
+Zadanie 1.1
+pllik zero.dat, po skompresowaniu, zajmował mniej pamięci, ponieważ sposób kompresji opiera się na powtarzających się znakach. Dlatego plik wypełniony samymi zerami będzie znacząco skompresowany. Natomiast plik losowy.dat zawierał liczby pseudolosowe, dlatego nie było w nim wielu ciągów tych samych znaków. Dlatego nie został skompresowany w tak znaczący sposób jak plik zero.dat
+
+Zadanie 1.2
+
+Dowiązanie miękkie jest tylko wskaźnikiem na plik, do którego tworzymy dowiązanie. Dowiązanie twarde natomiast jest wskaźnikiem na dokładne miejsce w pamięci pliku, do którego tworzymy dowiązanie. Dowiązanie twarde musi zatem mieć informację o wszystkich danych programu, zatem zajętość dowiązania twardego jest taka sama jak pliku wyjściowego. 
+
+ 
+
+
+
+
+
