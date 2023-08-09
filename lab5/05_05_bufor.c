@@ -1,4 +1,4 @@
-# Not mine code, but was needed to complete the task
+/* Not mine code, but was needed to complete the task */
 
 
 # include <stdio.h>
